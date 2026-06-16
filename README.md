@@ -7,20 +7,10 @@ Se desarrolló un microservicio para la gestión de usuarios utilizando Python y
 - MongoDB
 - Docker
 - Postman
-Microservicio de Gestión de Usuarios
-Se desarrollo de un microservicio para la gestión de usuarios utilizando Python y Flask. Permite registrar usuarios y realizar consultas de información almacenada en MongoDB.
-El servicio fue contenerizado mediante Docker para facilitar su ejecución en diferentes entornos.
-- Tecnologías utilizadas
-Python
-Flask
-Gunicorn
-MongoDB
-Docker
-Postman
-- Funcionalidades
-Crear usuarios
-Consultar usuarios mediante cédula
-- Ejecución del proyecto
+# Funcionalidades
+## Crear usuarios
+## Consultar usuarios mediante cédula
+# Ejecución del proyecto
 1. Clonar el repositorio
 2. Construir los contenedores
 docker compose up --build
@@ -28,7 +18,7 @@ docker compose up --build
 Una vez iniciado el contenedor, el microservicio quedará disponible en el puerto configurado en la aplicación.
 Pruebas
 Las pruebas de los endpoints fueron realizadas mediante Postman para verificar el correcto funcionamiento.
-- Endpoints disponibles
+# Endpoints disponibles
 1. Crear usuario
 POST /api/v1/users
 Crea un nuevo usuario en la base de datos.
