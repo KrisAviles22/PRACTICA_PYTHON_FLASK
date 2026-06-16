@@ -60,10 +60,10 @@ Response
 GET /api/v1/users/1723456789
 Response
 {
-    "cedula": "0912345648",
-    "email": "milena@test.com",
-    "id": "6a30d1ca3fe5ce2973ff13a2",
-    "nombres": "Milena Zambrano"
+    "cedula": "0912345678",
+    "email": "kristier@test.com",
+    "id": "6a30c751e623d515faa34d23",
+    "nombres": "Kristier Zambrano"
 }
 
 5. Eliminar usuario
