@@ -1,3 +1,12 @@
+# Microservicio de Gestión de Usuarios
+Se desarrolló un microservicio para la gestión de usuarios utilizando Python y Flask.
+## Tecnologías utilizadas
+- Python
+- Flask
+- Gunicorn
+- MongoDB
+- Docker
+- Postman
 Microservicio de Gestión de Usuarios
 Se desarrollo de un microservicio para la gestión de usuarios utilizando Python y Flask. Permite registrar usuarios y realizar consultas de información almacenada en MongoDB.
 El servicio fue contenerizado mediante Docker para facilitar su ejecución en diferentes entornos.
