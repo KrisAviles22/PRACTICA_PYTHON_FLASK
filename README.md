@@ -15,10 +15,10 @@ El servicio fue contenerizado mediante Docker para facilitar su ejecución en di
 
 ## Funcionalidades
 
-* Crear usuarios.
-* Obtener todos los usuarios registrados.
-* Consultar usuarios mediante cédula.
-* Eliminar usuarios mediante ID.
+* Crear usuarios
+* Obtener todos los usuarios registrados
+* Consultar usuarios mediante cédula
+* Eliminar usuarios mediante ID
 
 ## Ejecución del proyecto
 
@@ -49,7 +49,7 @@ Las pruebas de los endpoints fueron realizadas mediante Postman para verificar e
 
 **POST** `/api/v1/users`
 
-Crea un nuevo usuario en la base de datos.
+Crea un nuevo usuario en la base de datos
 
 #### Body de ejemplo
 
